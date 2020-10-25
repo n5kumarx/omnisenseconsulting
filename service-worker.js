@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/omnisenseconsulting/precache-manifest.eb97df6cb15b9f2ae333fc3913822137.js"
+  "/omnisenseconsulting/precache-manifest.44cbd0635df787ac2f95cc04c3bf6a1e.js"
 );
 
 self.addEventListener('message', (event) => {
