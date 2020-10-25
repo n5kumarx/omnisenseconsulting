@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c25304fa5fef6ed4f7f226d09db716c4",
+    "revision": "4b8c1f558d1ea43e4e1006a34a7ad72f",
     "url": "/omnisenseconsulting/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/omnisenseconsulting/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "d9611c9511f8dbd45f2e",
+    "revision": "6f7fa0c787dc4c465956",
     "url": "/omnisenseconsulting/static/css/main.8b58b3cd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/omnisenseconsulting/static/js/2.670fdb07.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9611c9511f8dbd45f2e",
-    "url": "/omnisenseconsulting/static/js/main.e2b856f3.chunk.js"
+    "revision": "6f7fa0c787dc4c465956",
+    "url": "/omnisenseconsulting/static/js/main.19ab2ec9.chunk.js"
   },
   {
     "revision": "b3eedd5d30f8dbca9a7f",
